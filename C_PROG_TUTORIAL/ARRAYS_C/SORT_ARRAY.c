@@ -1,4 +1,5 @@
 // BUBBLE SORT ALGORITHM:->
+// WITH CHARACTER ARRAY ALSO.
 
 #include<stdio.h>
 
